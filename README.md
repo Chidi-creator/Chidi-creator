@@ -10,7 +10,7 @@ Experienced Backend Engineer specializing in building scalable APIs and distribu
 - Mentoring junior developers and establishing coding standards
 
 ### 🛠️ Tech Stack
-**Backend:** Node.js, NestJS, Express.js, Golang  
+**Backend:** Node.js, NestJS, Express.js  
 **Languages:** TypeScript, JavaScript, Golang 
 **Databases:** MongoDB  
 **Testing:** Jest, Unit Testing  
