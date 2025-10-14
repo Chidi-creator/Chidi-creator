@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Chidiebere-Igwe Chidiebere 👋
 
-<!--
-**Chidi-creator/Chidi-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Engineer | System Architect 
 
-Here are some ideas to get you started:
+Experienced Backend Engineer specializing in building scalable APIs and distributed systems using **Node.js**, **NestJS**, **TypeScript**, and **Golang**. Strong focus on system design, performance optimization, and clean architecture principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+-  backend development initiatives at **ZAP AFRICA** and **I-ONE**
+- Building robust, scalable backend systems and APIs
+- Mentoring junior developers and establishing coding standards
+
+### 🛠️ Tech Stack
+**Backend:** Node.js, NestJS, Express.js, Golang  
+**Languages:** TypeScript, JavaScript, Golang 
+**Databases:** MongoDB  
+**Testing:** Jest, Unit Testing  
+**Tools:** Git, GitHub, Bitbucket, Postman, Swagger  
+**Frontend:** React.js  
+
+### 💼 Experience Highlights
+- **Backend Engineer** at ZAP AFRICA (Jan 2025 - Present)
+- **Lead Backend Engineer** at I-ONE (Oct 2024 - Present)  
+- **Backend Engineer** at NANA DELIVERY (Mar 2024 - Feb 2025)
+- **Software Engineering Intern** at PINGO & HIIT PLC
+
+### 🎓 Education
+**B.Eng. Computer Engineering** - Covenant University, Nigeria (CGPA: 4.26)
+
+### 📜 Certifications
+CNP Approved Certificate in JavaScript Programming - HiiT PLC (2023)
+
+### 📫 How to Reach Me
+- **Email:** tyler.igwe@gmail.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chidiebere-chidiebere-igwe-5593ba334/)
+
+
+### ⚡ Core Competencies
+- RESTful API Development & Integration
+- Database Design & Optimization  
+- System Architecture & Performance Monitoring
+- Authentication & Security Engineering
+- Clean Code & Test-Driven Development
+
+
