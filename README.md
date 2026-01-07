@@ -13,7 +13,7 @@ Experienced Backend Engineer specializing in building scalable APIs and distribu
 **Backend:** Node.js, NestJS, Express.js  
 **Languages:** TypeScript, JavaScript, Golang  
 **Databases:** MongoDB, MySQL, Postgres 
-**Testing:** Jest, Unit Testing  
+**Testing:** Jest, Unit Testing
 **Tools:** Git, GitHub, Bitbucket, Postman, Swagger  
 **Containerization:** Docker  
 **Cloud:** AWS  
