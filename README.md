@@ -36,7 +36,7 @@ CNP Approved Certificate in JavaScript Programming - HiiT PLC (2023)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chidiebere-chidiebere-igwe-5593ba334/)
 
 
-### ⚡ Core Competencies
+### Core Competencies
 - RESTful API Development & Integration
 - Database Design & Optimization  
 - System Architecture & Performance Monitoring
