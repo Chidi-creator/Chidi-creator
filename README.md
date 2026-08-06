@@ -20,8 +20,8 @@ Experienced Backend Engineer specializing in building scalable APIs and distribu
 **Frontend:** React.js  
 
 ### Experience Highlights
-- **Backend Engineer** at ZAP AFRICA (Jan 2025 - Present)
-- **Lead Backend Engineer** at I-ONE (Oct 2024 - Present)  
+- **Backend Engineer** at ZAP AFRICA (Jan 2024 - Feb 2026)
+- **Lead Backend Engineer** at I-ONE (March 2025 - Present)  
 - **Backend Engineer** at NANA DELIVERY (Mar 2024 - Feb 2025)
 - **Software Engineering Intern** at PINGO & HIIT PLC
 
